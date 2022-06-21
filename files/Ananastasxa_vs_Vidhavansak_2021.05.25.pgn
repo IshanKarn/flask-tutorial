@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.05.25"]
+[Round "-"]
+[White "Ananastasxa"]
+[Black "Vidhavansak"]
+[Result "0-1"]
+[CurrentPosition "2k2b1r/ppp2ppp/8/8/8/3P1qPn/PP3P1P/2R2R1K w - -"]
+[Timezone "UTC"]
+[ECO "D00"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System"]
+[UTCDate "2021.05.25"]
+[UTCTime "16:32:23"]
+[WhiteElo "399"]
+[BlackElo "579"]
+[TimeControl "180+2"]
+[Termination "Vidhavansak won by checkmate"]
+[StartTime "16:32:23"]
+[EndDate "2021.05.25"]
+[EndTime "16:36:58"]
+[Link "https://www.chess.com/game/live/15699243731"]
+
+1. d4 {[%clk 0:03:02]} 1... d5 {[%clk 0:02:59.8]} 2. Bf4 {[%clk 0:03:03.4]} 2...
+Bf5 {[%clk 0:02:55.9]} 3. e3 {[%clk 0:03:02.6]} 3... Nc6 {[%clk 0:02:49.6]} 4.
+Nf3 {[%clk 0:03:03]} 4... Nf6 {[%clk 0:02:40.7]} 5. Bd3 {[%clk 0:03:03.2]} 5...
+Qd7 {[%clk 0:02:25.6]} 6. O-O {[%clk 0:02:58.2]} 6... O-O-O {[%clk 0:02:25.8]}
+7. Nbd2 {[%clk 0:02:55.4]} 7... Bxd3 {[%clk 0:02:19.2]} 8. cxd3 {[%clk
+0:02:55.3]} 8... e5 {[%clk 0:02:16.4]} 9. dxe5 {[%clk 0:02:54.6]} 9... Nh5
+{[%clk 0:02:04.7]} 10. Bg5 {[%clk 0:02:27.9]} 10... Re8 {[%clk 0:01:55.5]} 11.
+e4 {[%clk 0:02:20.3]} 11... Nxe5 {[%clk 0:01:41.5]} 12. Nxe5 {[%clk 0:02:05]}
+12... Rxe5 {[%clk 0:01:40.7]} 13. exd5 {[%clk 0:02:02.9]} 13... Rxg5 {[%clk
+0:01:39.2]} 14. Ne4 {[%clk 0:02:00.7]} 14... Qxd5 {[%clk 0:01:29.7]} 15. Nxg5
+{[%clk 0:01:56.4]} 15... Qxg5 {[%clk 0:01:28.5]} 16. Rc1 {[%clk 0:01:51.7]}
+16... Nf4 {[%clk 0:01:28.5]} 17. g3 {[%clk 0:01:48.7]} 17... Nh3+ {[%clk
+0:01:26.3]} 18. Kh1 {[%clk 0:01:44.6]} 18... Qd5+ {[%clk 0:01:25.7]} 19. Qf3
+{[%clk 0:01:25.6]} 19... Qxf3# {[%clk 0:01:25.3]} 0-1

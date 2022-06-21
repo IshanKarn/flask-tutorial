@@ -1,0 +1,16 @@
+<html>
+<body>
+    <table border = 2>
+        {% for key, val in result.items() %}
+            <tr>
+                <th>{{ key.title() }}</th>
+                {% if val >= 60 %}
+                    <td style='background-color:rgb(165, 235, 198); color:green'>{{ val }}</td>
+                {% else %}
+                    <td style='background-color:rgb(240, 190, 180); color:red'>{{ val }}</td>
+                {% endif %}
+            </tr>
+        {% endfor %}
+    </table>
+</body>    
+</html>
