@@ -1,0 +1,3 @@
+/__pycache__/
+/flask-jwt-authentication/.venv/
+/flask-jwt-authentication/__pycache__/
